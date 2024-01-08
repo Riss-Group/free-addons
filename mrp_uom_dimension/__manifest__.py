@@ -2,7 +2,7 @@
 
 {
     'name': 'Product dimensions',
-    'version': '16.0',
+    'version': '17.0',
     'category': 'Sales Management',
     'description': """
     This module allow to have multidimensional UoMs.

@@ -4,8 +4,8 @@
 
     'summary': """Schedule mail sent for a later date""",
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml

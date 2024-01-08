@@ -8,11 +8,11 @@
     'description': """
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Manufacturing/Manufacturing',
-    'version': '16.0.1.0',
+    'version': '17.0.1.0',
 
     'depends': ['mrp'],
     'images': ['static/src/img/banner.png'],

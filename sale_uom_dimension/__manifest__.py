@@ -3,10 +3,10 @@
 
     'summary': """
         Allows the use of UoM dimensions in sales.""",
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
     'category': 'Sales Management',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'images': ['static/src/img/banner.png'],
     'license': 'AGPL-3',
     'depends': ['sale', 'uom_dimension'],

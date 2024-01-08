@@ -9,11 +9,11 @@
         Also adds a button for easy alias creation.
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Discuss',
-    'version': '16.0.0.1',
+    'version': '17.0.0.1',
 
     'depends': ['mail'],
 

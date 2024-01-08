@@ -9,11 +9,11 @@
         Add vehicles and drivers assignation on Invoices. These Statistics can also be accessed directly from the vehicle view.
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Invoicing &amp; Payments',
-    'version': '16.0.2.0',
+    'version': '17.0.2.0',
 
     'depends': ['account', 'fleet'],
     'images': ['static/src/img/banner.png'],

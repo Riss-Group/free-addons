@@ -10,11 +10,11 @@
         This module will automatically generate parent tasks for sections in sale orders. each task will have the corresponding sale order lines within that section as subtasks.
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Hidden',
-    'version': '16.0.2.0',
+    'version': '17.0.2.0',
 
     'depends': ['sale_project'],
     'images': ['static/src/img/banner.png'],

@@ -2,7 +2,7 @@
 
 {
     'name' : 'Sale UoM Dimension Measure',
-    'version': '16.0',
+    'version': '17.0',
     'category': 'Sale',
     'summary':  """Sale lines measures""",
     'author': 'BADEP',

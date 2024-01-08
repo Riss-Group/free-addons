@@ -7,11 +7,11 @@
     'description': """
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Technical Settings',
-    'version': '16.0.1',
+    'version': '17.0.1',
 
     'depends': [
         'base'

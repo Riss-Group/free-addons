@@ -8,10 +8,10 @@
     'description': """
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
     'category': 'Manufacturing',
-    'version': '16.0.1',
+    'version': '17.0.1',
 
     'depends': [
         'mrp'
@@ -25,6 +25,6 @@
         'views/mrp_routing_views.xml'
     ],
 
-    'installable': True,
+    'installable': False,
     'auto_install': True,
 }

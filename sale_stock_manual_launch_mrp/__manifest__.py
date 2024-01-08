@@ -2,7 +2,7 @@
 
 {
     'name' : 'Sale Stock Manual Lauch Procurement - Kits compatibility',
-    'version': '16.0',
+    'version': '17.0',
     'category': 'Sale',
     'author': 'BADEP',
     'description': """

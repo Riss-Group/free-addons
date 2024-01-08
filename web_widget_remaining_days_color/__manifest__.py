@@ -3,10 +3,10 @@
     'summary': """Add green color if remaining days are positive""",
     'description': """
     """,
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
     'category': 'Technical',
-    'version': '16.0.0.0.1',
+    'version': '17.0.0.0.1',
 
     'depends': ['base'],
     'images': ['static/src/img/banner.png'],

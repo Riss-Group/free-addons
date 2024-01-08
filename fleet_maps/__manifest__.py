@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Fleet Maps',
-    'version': '16.0.1.0.2',
+    'version': '17.0.1.0.2',
     'author': 'Yopi Angi, BADEP',
     'license': 'AGPL-3',
     'website': 'https://badep.ma',

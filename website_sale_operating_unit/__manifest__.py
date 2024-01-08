@@ -3,10 +3,10 @@
 
     'summary': """
         Choose proper warehouse when sale order is generated from website""",
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
     'category': 'Sales Management',
-    'version': '16.0.1.0.1',
+    'version': '17.0.1.0.1',
     'images': ['static/src/img/banner.png'],
     'license': 'AGPL-3',
     'depends': ['website_sale', 'operating_unit'],

@@ -2,7 +2,7 @@
 
 {
     'name': 'Product dimensions in stock_barcode Entreprise module',
-    'version': '16.0',
+    'version': '17.0',
     'category': 'Inventory',
     'license': 'AGPL-3',
     'description': """

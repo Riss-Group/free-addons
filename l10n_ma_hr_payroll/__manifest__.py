@@ -29,6 +29,6 @@
         'views/res_company_views.xml',
         'report/report_paie.xml',
     ],
-     'installable': True,
+     'installable': False,
      "images":['static/description/Banner.png'],
 }

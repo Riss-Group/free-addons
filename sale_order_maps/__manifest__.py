@@ -10,7 +10,7 @@ Show your Sale orders  on map view in regards to delivery address
     'author': "BADEP, Vauxoo",
     'website': "https://badep.ma",
 
-    'version': '16.0.1.0.0',
+    'version': '17.0.1.0.0',
     'author': 'BADEP',
     'website': "https://badep.ma",
     'license': 'AGPL-3',

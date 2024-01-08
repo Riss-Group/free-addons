@@ -9,11 +9,11 @@
         
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     'category': 'Invoicing &amp; Payments',
-    'version': '16.0.1.0',
+    'version': '17.0.1.0',
 
     'depends': ['account'],
     'images': ['static/src/img/banner.png'],

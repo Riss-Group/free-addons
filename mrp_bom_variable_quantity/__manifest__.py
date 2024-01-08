@@ -1,6 +1,6 @@
 {
     'name': 'Variable quantity in production',
-    'version': '16.0.3.0.0',
+    'version': '17.0.3.0.0',
     'license': 'AGPL-3',
     'author': "OCA, BADEP",
     'website': 'https://badep.ma',

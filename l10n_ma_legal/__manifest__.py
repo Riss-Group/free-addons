@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Legal fields for Moroccan companies',
-    'version': '16.0.1',
+    'version': '17.0.1',
     'category': 'Localization',
     'description': """
     Ajout RC, Patente, IF, CNSS & ICE à la fiche client. 

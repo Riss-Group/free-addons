@@ -1,7 +1,7 @@
 {
     'name': 'Sale lock related invoices',
     'summary': 'Lock invoices of sale when it is locked',
-    'version': '16.0.1.1.1',
+    'version': '17.0.1.1.1',
     'category': 'Generic Modules/Sale',
     'author': "BADEP",
     'depends': ['sale'],

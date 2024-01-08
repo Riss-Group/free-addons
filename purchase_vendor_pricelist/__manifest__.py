@@ -8,14 +8,14 @@
     'description': """
     """,
 
-    'author': "BADEP",
-    'website': "https://badep.ma",
+    'author': "Captivea, BADEP",
+    'website': "https://www.captivea.com",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
     # for the full list
     'category': 'Inventory',
-    'version': '16.0.1.0',
+    'version': '17.0.1.0',
 
     # any module necessary for this one to work correctly
     'depends': ['product'],
