@@ -4,7 +4,7 @@
     "name": "Stock Tier Validation",
     "summary": "Extends the functionality of Stock Pickings to "
                "support a tier validation process.",
-    "version": "16.0.1.0.0",
+    "version": "17.0.1.0",
     "category": "Inventory",
     "website": "https://badep.ma",
     "author": "BADEP, Open Source Integrators, Odoo Community Association (OCA)",

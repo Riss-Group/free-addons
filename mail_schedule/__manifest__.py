@@ -11,7 +11,7 @@
     # Check https://github.com/odoo/odoo/blob/master/odoo/addons/base/module/module_data.xml
     # for the full list
     'category': 'Discuss',
-    'version': '16.1.1.0',
+    'version': '17.0.1.0',
 
     # any module necessary for this one to work correctly
     'depends': ['mail', 'web'],
@@ -21,5 +21,5 @@
     'data': [
         'views/mail_views.xml'
     ],
-    'installable': False,
+    'installable': True,
 }

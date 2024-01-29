@@ -11,7 +11,7 @@
     'website': "https://www.captivea.com",
 
     'category': 'Technical Settings',
-    'version': '17.0.1',
+    'version': '17.0.0.1',
 
     'depends': [
         'base'

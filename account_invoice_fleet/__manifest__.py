@@ -22,5 +22,5 @@
         'views/account_view.xml',
         'views/fleet_view.xml',
     ],
-    'installable': False,
+    'installable': True,
 }

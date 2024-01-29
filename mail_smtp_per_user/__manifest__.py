@@ -6,7 +6,7 @@
     'author': 'TKOPEN, BADEP',
     'license': 'AGPL-3',
     'website': 'https://tkopen.com',
-    'version': '17.0.2',
+    'version': '17.0.0.2',
     'sequence': 10,
     'depends': [
         'base',
