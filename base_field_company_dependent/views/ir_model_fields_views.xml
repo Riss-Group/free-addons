@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="view_model_fields_form_inherit" model="ir.ui.view">
+            <field name="name">model.fields.form.inherit.company.dependent</field>
+            <field name="model">ir.model.fields</field>
+            <field name="inherit_id" ref="base.view_model_fields_form"/>
+            <field name="arch" type="xml">
+                <!-- Add company_dependent after the desired field -->
+                <field name="copied" position="after">
+                    <field name="company_dependent"/>
+                </field>
+            </field>
+        </record>
+    </data>
+</odoo>
